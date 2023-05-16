@@ -1,0 +1,15 @@
+/home/vera/ControlWork/Program/bin/Debug/net6.0/Program
+/home/vera/ControlWork/Program/bin/Debug/net6.0/Program.deps.json
+/home/vera/ControlWork/Program/bin/Debug/net6.0/Program.runtimeconfig.json
+/home/vera/ControlWork/Program/bin/Debug/net6.0/Program.dll
+/home/vera/ControlWork/Program/bin/Debug/net6.0/ref/Program.dll
+/home/vera/ControlWork/Program/bin/Debug/net6.0/Program.pdb
+/home/vera/ControlWork/Program/obj/Debug/net6.0/Program.csproj.AssemblyReference.cache
+/home/vera/ControlWork/Program/obj/Debug/net6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/ControlWork/Program/obj/Debug/net6.0/Program.AssemblyInfoInputs.cache
+/home/vera/ControlWork/Program/obj/Debug/net6.0/Program.AssemblyInfo.cs
+/home/vera/ControlWork/Program/obj/Debug/net6.0/Program.csproj.CoreCompileInputs.cache
+/home/vera/ControlWork/Program/obj/Debug/net6.0/Program.dll
+/home/vera/ControlWork/Program/obj/Debug/net6.0/ref/Program.dll
+/home/vera/ControlWork/Program/obj/Debug/net6.0/Program.pdb
+/home/vera/ControlWork/Program/obj/Debug/net6.0/Program.genruntimeconfig.cache
